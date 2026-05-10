@@ -1,5 +1,5 @@
 {
-  "name": "data-sage-desktop",
+  "name": "openmle-desktop",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -111,7 +111,7 @@
   },
   "build": {
     "appId": "com.datasage.desktop",
-    "productName": "data-sage-desktop",
+    "productName": "openmle-desktop",
     "files": [
       "dist-electron/**/*",
       "dist-react/**/*",
